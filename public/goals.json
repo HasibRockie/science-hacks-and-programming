@@ -1,0 +1,38 @@
+[
+  {
+      "id": 1,
+      "icon": "fas fa-question fa-3x",
+      "title": "শিক্ষার্থীদের জ্ঞানের পরিসীমা কে বিস্তৃত করা",
+      "details": "Details is here!"
+  },
+  {
+      "id": 2,
+      "icon": "fas fa-atom fa-3x",
+      "title": "বিজ্ঞান ও প্রযুক্তি সম্পর্কিত বিভিন্ন বিষয় তুলে ধরা ",
+      "details": "Details is here!"
+  },
+  {
+      "id": 3,
+      "icon": "fas fa-brain fa-3x",
+      "title": "কৌতুহলের উদ্রেক করে, এমন বিষয়াদি সহজ ভাবে তুলে ধরা",
+      "details": "Details is here!"
+  },
+  {
+      "id": 4,
+      "icon": "fas fa-lightbulb fa-3x",
+      "title": "গণিত এবং বিজ্ঞানের বিভিন্ন ছোটখাটো ট্রিকস ও হ্যাক শিখানো ",
+      "details": "Details is here!"
+  },
+  {
+      "id": 5,
+      "icon": "fas fa-laptop-code fa-3x",
+      "title": "প্রোগ্রামিং-এ আগ্রহী করে তোলা এবং মজার বিষয় গুলো সামনে আনা ",
+      "details": "Details is here!"
+  },
+  {
+      "id": 6,
+      "icon": "far fa-check-square fa-3x",
+      "title": "জ্ঞান ছড়ানো এবং বুদ্ধিবৃত্তিক বাংলাদেশ বিনির্মাণে সূক্ষ্ম অবদান রাখা",
+      "details": "Details is here!"
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "icon": "fab fa-python fa-3x",
+        "name": "PYTHON",
+        "price": "$100",
+        "image": "https://image.pngaaa.com/138/619138-middle.png"
+    },
+    {
+        "id": 2,
+        "icon": "fab fa-js-square fa-3x",
+        "name": "JAVASCRIPT",
+        "price": "$120",
+        "image": "https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png"
+    },
+    {
+        "id": 3,
+        "icon": "fab fa-cuttlefish fa-3x",
+        "name": "C PROGRAMMING",
+        "price": "$75",
+        "image": "https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"
+    },
+    {
+        "id": 4,
+        "icon": "fab fa-react fa-3x",
+        "name": "REACT",
+        "price": "$115",
+        "image": "https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"
+    },
+    {
+        "id": 5,
+        "icon": "fab fa-bootstrap fa-3x",
+        "name": "BOOTSTRAP ",
+        "price": "$50",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
+    },
+    {
+        "id": 6,
+        "icon": "fab fa-php fa-3x",
+        "name": "PHP",
+        "price": "$90",
+        "image": "https://banner2.cleanpng.com/20180427/zaq/kisspng-web-development-php-programming-language-computer-5ae381e5d40ec8.1931377315248593658686.jpg"
+    }
+  ]

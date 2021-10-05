@@ -1,0 +1,10 @@
+.service-icon{
+    transform: translate(40px, -20px);
+}
+
+.service-cards{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 50px 50px;
+    margin: 30px 140px;
+}
