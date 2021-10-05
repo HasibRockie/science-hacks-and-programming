@@ -1,0 +1,22 @@
+.illustration{
+    background-image: url("./01.jpg");
+    background-size: cover;
+    min-height: 800px;
+    margin-top: 30px;
+}
+
+.illustration{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: black;
+}
+
+.illustration h2{
+    background-color: rgba(0, 0, 0, 0.589);
+    color: wheat;
+    font-size: 58px;
+    width: 50%;
+    padding: 10px 100px;
+    border-radius: 30px;
+}
